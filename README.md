@@ -14,8 +14,6 @@ The hippocampus is a critical structure of the human brain that plays important 
 
 ![Hippocampus](./readme.img/Hippocampus_small.gif)
 
-<img src="./readme.img/Hippocampus_and_seahorse_cropped.jpg" width=200/>
-
 According to [studies](https://www.sciencedirect.com/science/article/pii/S2213158219302542), the volume of the hippocampus varies in a population, depending on various parameters, within certain boundaries, and it is possible to identify a "normal" range when taking into account age, sex and brain hemisphere.
 
 <img src="./readme.img/nomogram_fem_right.svg" width=300>
